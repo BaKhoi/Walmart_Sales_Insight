@@ -1,5 +1,9 @@
 # Walmart Sales Data Analysis
 
+## Credits
+
+This README file includes content from [WalmartSalesAnalysis](https://github.com/Princekrampah/WalmartSalesAnalysis.git) by [Princekrampah](https://github.com/Princekrampah). 
+
 ## About
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
